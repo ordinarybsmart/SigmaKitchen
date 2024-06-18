@@ -19,7 +19,7 @@ function App(){
       </header>
     </div>
     <main className="main">
-        <h1>Hey Lets Cook What do you have right now?</h1>
+        <h1>Hey Lets Cook What do you have right now??</h1>
        <RecipeGenerator/>
       </main>
     </>
