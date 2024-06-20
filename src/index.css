@@ -61,6 +61,10 @@
 }
 .navbar ul li a:hover{
     color: #000080; 
+    border-radius: 20%;
+    background-color: lightskyblue;
+    padding: 0.5%;
+    transition-duration: 0.8s;
 }
 
 .footer{

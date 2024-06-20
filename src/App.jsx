@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
+import ReactDOM from 'react-dom/client'
 import './index.css';
-import RecipeGenerator from "./RecipeGenerator";
 function App(){
 
   return(
@@ -20,7 +20,6 @@ function App(){
     </div>
     <main className="main">
         <h1>Hey Lets Cook What do you have right now??</h1>
-       <RecipeGenerator/>
       </main>
     </>
   )
